@@ -12,7 +12,7 @@
 <li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning <strong>React.js</strong></li>
 <li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me questions regarding <strong>Discord.js</strong></li>
 <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> Reach me on
-<a href="https://discord.gg/jMpw3jw" rel="nofollow">
+<a href="https://discord.gg/vxbeY6qNqJ" rel="nofollow">
 <img align="center" alt="aahir's Discord" width="22px" src="https://camo.githubusercontent.com/c44f697c9058cc163b8d31de17cff70276b7b749d53be0ec0db3e631ef543650/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f646973636f72642e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" style="max-width:100%;">
 </a>
 
