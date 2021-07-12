@@ -61,8 +61,7 @@
 <p align="center">
 	<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/ab0fc1f42b1870f0f98bdc40b9122681b5921491ba81a81075d5cabc316636c0/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f7a686f6e31323334352f7a686f6e31323334353f7374796c653d666c6174"><img align="top" alt="stars" src="https://camo.githubusercontent.com/ab0fc1f42b1870f0f98bdc40b9122681b5921491ba81a81075d5cabc316636c0/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f7a686f6e31323334352f7a686f6e31323334353f7374796c653d666c6174" data-canonical-src="https://img.shields.io/github/stars/zhon12345/zhon12345?style=flat" style="max-width:100%;"></a>
 	<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/0158e56bb2dd9f590364bb695b37998d7b50f49ac3447def53390f4c87fd4eb0/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f726b732f7a686f6e31323334352f7a686f6e31323334353f7374796c653d666c6174"><img align="top" alt="forks" src="https://camo.githubusercontent.com/0158e56bb2dd9f590364bb695b37998d7b50f49ac3447def53390f4c87fd4eb0/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f726b732f7a686f6e31323334352f7a686f6e31323334353f7374796c653d666c6174" data-canonical-src="https://img.shields.io/github/forks/zhon12345/zhon12345?style=flat" style="max-width:100%;"></a>
-</p>
-</article>
+	</article>
   </div>
 <p align="center">
 Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to lead people, Helps them to achieve their goals and consistently looking for innovating something for improving lives of people
@@ -78,6 +77,7 @@ Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to 
 
 </p>
 
+</p>
 </p>
 ![Abhinandan Trilokia](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
 <br>
