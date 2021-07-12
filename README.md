@@ -13,14 +13,7 @@ Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to 
 </p>
 
 </p>
-
-<div class="Box-body p-4">
-    <div class="d-flex flex-justify-between">
-      <div class="text-mono text-small mb-3">
-        <a href="/zhon12345/zhon12345" class="no-underline Link--primary">zhon12345</a><span class="color-text-tertiary d-inline-block" style="padding:0px 2px;">/</span>README<span class="color-text-tertiary">.md</span>
-      </div>
-
-    </div>
+<div>
     <article class="markdown-body entry-content container-lg f5" itemprop="text"><h2><a id="user-content-hi-there-" class="anchor" aria-hidden="true" href="#hi-there-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Hi there <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji></h2>
 <p>I see you have stumbled upon my GitHub profile so let me introduce myself.</p>
 <p>I'm Zhun Onn who's from <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/f2eeb90ec34c619006d0375b0706c562b7b4e0bd9147aa52b922863822d262ca/68747470733a2f2f696d6167652e666c617469636f6e2e636f6d2f69636f6e732f7376672f3139372f3139373538312e737667"><img src="https://camo.githubusercontent.com/f2eeb90ec34c619006d0375b0706c562b7b4e0bd9147aa52b922863822d262ca/68747470733a2f2f696d6167652e666c617469636f6e2e636f6d2f69636f6e732f7376672f3139372f3139373538312e737667" width="15" data-canonical-src="https://image.flaticon.com/icons/svg/197/197581.svg" style="max-width:100%;"></a> <strong>Kuala Lumpur, Malaysia</strong>. I'm a HUGE tech geek that is interested in all things computer related. I hope you like my projects and find them engaging in any way, shape, or form.</p>
