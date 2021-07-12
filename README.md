@@ -5,7 +5,7 @@ Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to 
  · 
 <br>
 <a href="https://play.google.com/store/apps/dev?id=4898227705286580329">Android developer @Trilokia Inc.</a>
-| <a href="https://gdg.community.dev/gdg-jammu/">Community organizer @GDG Jammu</a>
+| <a href="https://dsc.gg/aahir/">Discord Community</a>
 <br>
  <p align="center">
  <a href="https://twitter.com/imtrilokia"><img src="https://img.shields.io/twitter/follow/imtrilokia?style=social" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
