@@ -19,7 +19,7 @@ Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to 
 <p align="center">
  <i>Take a look at my repositories and let's get in touch!</i>
 <p  align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=trilokia"/>       
+
 </p>
 
 </p>
