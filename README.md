@@ -5,7 +5,7 @@ Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to 
  · 
 <br>
 <a href="https://www.youtube.com/channel/UCj2IZE2_Hime__l5xfLEKAQ">Youtube</a>
-| <a href="https://dsc.gg/aahir/">Discord Community</a>
+| <a href="https://dsc.gg/aahir/">Discord</a>
 <br>
 
 
