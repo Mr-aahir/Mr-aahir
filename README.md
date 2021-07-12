@@ -3,9 +3,7 @@
 <p>I see you have stumbled upon my GitHub profile so let me introduce myself.</p>
 <p>I'm Aahir who's from <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/f2eeb90ec34c619006d0375b0706c562b7b4e0bd9147aa52b922863822d262ca/68747470733a2f2f696d6167652e666c617469636f6e2e636f6d2f69636f6e732f7376672f3139372f3139373538312e737667"></a> <strong>India</strong>. I'm a HUGE tech geek that is interested in all things computer related. I hope you like my projects and find them engaging in any way, shape, or form.</p>
 <h3><a id="user-content--quick-facts" class="anchor" aria-hidden="true" href="#-quick-facts"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> Quick Facts</h3>
-<p>
-	<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/126e3f9b328ecd7a14a0a7c3dc46a665c373f911b6ff16bb3c689d0144f59360/68747470733a2f2f6769746875622d726561646d652d73746174732e7a686f6e31323334352e76657263656c2e6170702f6170693f757365726e616d653d7a686f6e31323334352673686f775f69636f6e733d7472756526696e636c7564655f616c6c5f636f6d6d6974733d74727565267468656d653d7265616374"><img align="right" alt="zhon12345's github stats" width="50%" src="https://camo.githubusercontent.com/126e3f9b328ecd7a14a0a7c3dc46a665c373f911b6ff16bb3c689d0144f59360/68747470733a2f2f6769746875622d726561646d652d73746174732e7a686f6e31323334352e76657263656c2e6170702f6170693f757365726e616d653d7a686f6e31323334352673686f775f69636f6e733d7472756526696e636c7564655f616c6c5f636f6d6d6974733d74727565267468656d653d7265616374" data-canonical-src="https://github-readme-stats.zhon12345.vercel.app/api?username=zhon12345&amp;show_icons=true&amp;include_all_commits=true&amp;theme=react" style="max-width:100%;"></a>
-</p>
+
 <ul>
 <li><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨&zwj;💻</g-emoji> Most of my projects are available on <a href="https://github.com/Mr-aahir">GitHub</a></li>
 <li><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I’m currently working on Tavern Keeper</li>
@@ -13,7 +11,8 @@
 <li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me questions regarding <strong>Discord.js</strong></li>
 <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> Reach me on
 <a href="https://discord.gg/vxbeY6qNqJ" rel="nofollow">
-
+<img align="center" alt="aahir's Discord" width="22px" src="https://camo.githubusercontent.com/c44f697c9058cc163b8d31de17cff70276b7b749d53be0ec0db3e631ef543650/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f646973636f72642e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" style="max-width:100%;">
+</a>
 
 <li><g-emoji class="g-emoji" alias="smile" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png">😄</g-emoji> Pronouns: <strong>He/Him</strong></li>
 <li><g-emoji class="g-emoji" alias="tada" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png">🎉</g-emoji> Fun fact <strong>I can play the drums <g-emoji class="g-emoji" alias="drum" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f941.png">🥁</g-emoji></strong></li>
