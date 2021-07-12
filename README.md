@@ -13,17 +13,9 @@
 <li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me questions regarding <strong>Discord.js</strong></li>
 <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> Reach me on
 <a href="https://discord.gg/jMpw3jw" rel="nofollow">
-<img align="center" alt="zhon12345's Discord" width="22px" src="https://camo.githubusercontent.com/c44f697c9058cc163b8d31de17cff70276b7b749d53be0ec0db3e631ef543650/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f646973636f72642e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" style="max-width:100%;">
+<img align="center" alt="aahir's Discord" width="22px" src="https://camo.githubusercontent.com/c44f697c9058cc163b8d31de17cff70276b7b749d53be0ec0db3e631ef543650/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f646973636f72642e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" style="max-width:100%;">
 </a>
-<a href="https://reddit.com/zhon12345" rel="nofollow">
-<img align="center" alt="zhon12345's Reddit" width="22px" src="https://camo.githubusercontent.com/2162bc9dfcd9866b5e076ee667878afec0a51265597d12f238612607f6104a4a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f7265646469742e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" style="max-width:100%;">
-</a>
-<a href="https://twitter.com/zhon12345" rel="nofollow">
-<img align="center" alt="zhon12345's Twitter" width="22px" src="https://camo.githubusercontent.com/395dda360ae28377b7c3247581a88b20573883519c2be833cb64fbb37dcbcc1a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f747769747465722e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="max-width:100%;">
-</a>
-<a href="https://dev.to/zhon12345" rel="nofollow">
-<img align="center" alt="zhon12345's DEV.to" width="22px" src="https://camo.githubusercontent.com/9b13cf00d4d07dcfee53663f62019ef576b7224822fe81dd4be7f94885db5496/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6465762d646f742d746f2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" style="max-width:100%;">
-</a></li>
+
 <li><g-emoji class="g-emoji" alias="smile" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png">😄</g-emoji> Pronouns: <strong>He/Him</strong></li>
 <li><g-emoji class="g-emoji" alias="tada" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png">🎉</g-emoji> Fun fact <strong>I can play the drums <g-emoji class="g-emoji" alias="drum" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f941.png">🥁</g-emoji></strong></li>
 </ul>
